@@ -1733,9 +1733,7 @@ export default function App() {
               </div>
             </div>
             <div className="footer__bottom">
-              <p>
-                © 2026 Πειρατική Ρεγκάτα Γέρας. Με επιφύλαξη παντός δικαιώματος.
-              </p>
+              <p>© Created by Stavros Vetsikas</p>
               <p>Ευρειακή · Κόλπος Γέρας · Λέσβος</p>
             </div>
           </div>
